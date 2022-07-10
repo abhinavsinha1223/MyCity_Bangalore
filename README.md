@@ -12,3 +12,4 @@ a very handy, storage friendly and all age compatible manner. This App also has 
 inspired from Gmail application which allow the users to switch the fragments easily without any
 hassle. 
 
+![WhatsApp Image 2022-07-08 at 11 04 42 PM](https://user-images.githubusercontent.com/90666871/178128760-74b3411b-cdc2-40ef-a91a-a3cb5ea8654c.jpeg)
